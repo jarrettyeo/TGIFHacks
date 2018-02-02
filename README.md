@@ -2,7 +2,9 @@
 
 You can find a full list of TGIFHacks events [here](http://ntuoss.com/events.html) or [on Facebook](https://www.facebook.com/ntuoss/events/). Listed below are the resources for some of the workshops available online.
 
+- #75 - Flask Websockets Chat app ([Github Repo](https://github.com/jarrettyeo/NTUOSS-FlaskWebSocketChatApp))
 - #74 - Introduction to Machine Learning ([Github Repo](https://github.com/chaitjo/NTUOSS-MachineLearningWorkshop))
+- #73 - Udemy + Facebook API & Web Automation with Selenium ([Github Repo](https://github.com/jarrettyeo/NTUOSS-SeleniumFacebookAPIforUdemy))
 - #70 - Intro to VueJS and Firebase ([GitHub Repo](https://github.com/kunmishra2599/NTUOSS-VuejsWorkshop))
 - #69 - Telegram Bots ([GitHub Repo](https://github.com/clarencecastillo/NTUOSS-TelegramBotsWorkshop))
 - #68 - Web Development 101 ([GitHub Repo](https://github.com/SuyashLakhotia/NTUOSS-Bootstrap4Workshop))
